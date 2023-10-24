@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mpavu
-- 👀 I’m interested in automation, robotics and electronics.
-- 🌱 I’m currently learning , hmm ... , hard to specify... my interest lies on variety of fields , so, I am currently learning a spectrum of things.
-- 💞️ I’m looking to collaborate on any projects based on electronics, biomedical and automation purposes.
+- 👀 I’m interested in Industry 4.0, digitalization, automation, robotics and electronics.
+- 🌱 I’m currently learning , hmm ... , hard to specify... my interest lies on variety of fields , so, I am currently learning a spectrum of things. Apart from that I am a Master's student in Automation and IT at TH Köln and presently doing my Master thesis at Procter and Gamble. 
+- 💞️ I’m looking to collaborate on any projects based on Industrial digitalization and Machine learning.
 - 📫 How to reach me ; mail me on "pavitra.murugesan@gmail.com"
 
 <!---
